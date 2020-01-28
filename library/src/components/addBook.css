@@ -1,0 +1,12 @@
+.border-class
+{
+  border:thin black solid;
+  margin:20px;
+  padding:20px;
+}
+.style{
+  color: #757575;
+}
+.header{
+  background-color: #3385ff;
+}
